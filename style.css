@@ -1454,6 +1454,23 @@ img {
   .single-pie-bar {
     margin-bottom: 30px; } }
 
+
+.contact-form1{
+  background-color:blue;
+  width: 300px;
+  height: 600px;\
+  border: 1px black;
+position:absolute;
+top:200px;
+left:270px;
+text-align:right;
+z-index:5;
+}
+.lable {text-align: left;}
+
+
 /* The end */
 
 /*# sourceMappingURL=style.css.map */
+
+
